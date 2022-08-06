@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     fbnldksgnsrkgfnesrkjgnmergjkenges dfgjnergestij
+         <img src='httmp://picsum.photos/300/200'/>
+         <h2>New Images</h2>
     </div>
   );
 }
